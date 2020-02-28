@@ -1,2 +1,3 @@
 name: Tuhin Poddar, PhD Candidate
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
